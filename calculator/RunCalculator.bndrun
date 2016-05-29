@@ -1,0 +1,25 @@
+-runfw: org.apache.felix.framework;version='[4.4.1,4.4.1]'
+-runee: JavaSE-1.8
+-runsystemcapabilities: ${native_capability}
+
+-resolve.effective: active;skip:="osgi.service"
+-resolve: auto
+-runrequires:  \
+	osgi.identity;filter:='(osgi.identity=calculator.service)',\
+	osgi.identity;filter:='(osgi.identity=calculator)',\
+	osgi.identity;filter:='(osgi.identity=calculator.service.rpn.add)',\
+	osgi.identity;filter:='(osgi.identity=calculator.service.rpn.avg)',\
+	osgi.identity;filter:='(osgi.identity=calculator.service.rpn.sub)',\
+	osgi.identity;filter:='(osgi.identity=calculator.service.rpn.mul)'
+-runbundles:  \
+	calculator;version=latest,\
+	calculator.service;version=latest,\
+	calculator.service.rpn.add;version=latest,\
+	calculator.service.rpn.avg;version=latest,\
+	calculator.service.rpn.mul;version=latest,\
+	calculator.service.rpn.sub;version=latest,\
+	com.springsource.org.apache.commons.lang;version='[2.6.0,2.6.1)',\
+	org.apache.commons.math3;version='[3.4.1,3.4.2)',\
+	org.apache.felix.configadmin;version='[1.8.0,1.8.1)',\
+	org.apache.felix.scr;version='[1.6.2,1.6.3)',\
+	osgi.residential;version='[4.3.0,4.3.1)'

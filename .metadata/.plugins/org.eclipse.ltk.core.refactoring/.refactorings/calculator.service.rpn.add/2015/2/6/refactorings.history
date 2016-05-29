@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;calculator.service.rpn.add.ExampleComponentTest&apos; to &apos;TestRpnAddService&apos;&#x0D;&#x0A;- Original project: &apos;calculator.service.rpn.add&apos;&#x0D;&#x0A;- Original element: &apos;calculator.service.rpn.add.ExampleComponentTest&apos;&#x0D;&#x0A;- Renamed element: &apos;calculator.service.rpn.add.TestRpnAddService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExampleComponentTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/test&lt;calculator.service.rpn.add{ExampleComponentTest.java[ExampleComponentTest" matchStrategy="1" name="TestRpnAddService" qualified="false" references="true" similarDeclarations="false" stamp="1423049034370" textual="false" version="1.0"/>
+</session>

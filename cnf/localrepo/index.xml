@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repository increment="1423046081496" name="Local" xmlns="http://www.osgi.org/xmlns/repository/v1.0.0">
+  <resource>
+    <capability namespace="osgi.identity">
+      <attribute name="osgi.identity" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="type" value="osgi.bundle"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.content">
+      <attribute name="osgi.content" value="bfe18b4ff4cc069143b2d5fdf21f5306f4670468b440799ab33196a1432d941c"/>
+      <attribute name="url" value="com.springsource.org.apache.commons.lang/com.springsource.org.apache.commons.lang-2.6.0.jar"/>
+      <attribute name="size" type="Long" value="286478"/>
+      <attribute name="mime" value="application/vnd.osgi.bundle"/>
+    </capability>
+    <capability namespace="osgi.wiring.bundle">
+      <attribute name="osgi.wiring.bundle" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.host">
+      <attribute name="osgi.wiring.host" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+      <directive name="uses" value="org.apache.commons.lang.exception"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.builder"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.enum"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.enums"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.exception"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.math"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.mutable"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.reflect"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.text"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.lang.time"/>
+      <attribute name="version" type="Version" value="2.6.0"/>
+      <attribute name="bundle-symbolic-name" value="com.springsource.org.apache.commons.lang"/>
+      <attribute name="bundle-version" type="Version" value="2.6.0"/>
+    </capability>
+  </resource>
+  <resource>
+    <capability namespace="osgi.identity">
+      <attribute name="osgi.identity" value="org.apache.commons.math3"/>
+      <attribute name="type" value="osgi.bundle"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.content">
+      <attribute name="osgi.content" value="d1075b14a71087038b0bfd198f0f7dd8e49b5b3529d8e2eba99e7d9eb8565e4b"/>
+      <attribute name="url" value="org.apache.commons.math3/org.apache.commons.math3-3.4.1.jar"/>
+      <attribute name="size" type="Long" value="2035066"/>
+      <attribute name="mime" value="application/vnd.osgi.bundle"/>
+    </capability>
+    <capability namespace="osgi.wiring.bundle">
+      <attribute name="osgi.wiring.bundle" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.host">
+      <attribute name="osgi.wiring.host" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.analysis"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.analysis.differentiation"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.analysis.function"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.analysis.integration"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.analysis.integration.gauss"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.analysis.interpolation"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.analysis.polynomials"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.analysis.solvers"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.complex"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.dfp"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.distribution"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.distribution.fitting"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.exception"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.exception.util"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.filter"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.fitting"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.fitting.leastsquares"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.fraction"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.genetics"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.enclosing"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.euclidean.oned"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.euclidean.threed"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.euclidean.twod"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.euclidean.twod.hull"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.hull"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.partitioning"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.partitioning.utilities"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.spherical.oned"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.geometry.spherical.twod"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.linear"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ml.clustering"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ml.clustering.evaluation"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ml.distance"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ml.neuralnet"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ml.neuralnet.oned"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ml.neuralnet.sofm"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ml.neuralnet.sofm.util"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ml.neuralnet.twod"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ode"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ode.events"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ode.nonstiff"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.ode.sampling"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optim"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optim.linear"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optim.nonlinear.scalar"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optim.nonlinear.scalar.gradient"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optim.nonlinear.scalar.noderiv"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optim.nonlinear.vector"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optim.nonlinear.vector.jacobian"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optim.univariate"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optimization"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optimization.direct"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optimization.fitting"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optimization.general"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optimization.linear"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.optimization.univariate"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.primes"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.random"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.special"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.clustering"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.correlation"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.descriptive"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.descriptive.moment"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.descriptive.rank"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.descriptive.summary"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.inference"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.interval"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.ranking"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.stat.regression"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.transform"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.apache.commons.math3.util"/>
+      <attribute name="version" type="Version" value="3.4.1"/>
+      <attribute name="bundle-symbolic-name" value="org.apache.commons.math3"/>
+      <attribute name="bundle-version" type="Version" value="3.4.1"/>
+    </capability>
+  </resource>
+</repository>

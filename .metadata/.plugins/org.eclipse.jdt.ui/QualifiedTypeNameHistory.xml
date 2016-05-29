@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="calculator.service.rpn.add.RpnAdd"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="javax.xml.ws.ServiceMode"/>
+<fullyQualifiedTypeName name="org.osgi.service.component.annotations.Component"/>
+<fullyQualifiedTypeName name="org.osgi.framework.ServiceReference"/>
+<fullyQualifiedTypeName name="org.osgi.service.packageadmin.PackageAdmin"/>
+<fullyQualifiedTypeName name="calculator.Calculator"/>
+<fullyQualifiedTypeName name="calculator.service.OperatorService"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CountDownLatch"/>
+<fullyQualifiedTypeName name="org.apache.felix.scr.impl.manager.DependencyManager"/>
+</qualifiedTypeNameHistroy>
